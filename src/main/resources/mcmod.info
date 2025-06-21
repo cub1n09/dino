@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "dino",
+    "name": "Dino",
+    "description": "Ghost client mod for Forge 1.8.9",
+    "version": "1.0",
+    "mcversion": "1.8.9",
+    "modauthor": "you",
+    "url": "",
+    "updateUrl": "",
+    "screenshots": [],
+    "logoFile": ""
+  }
+]
